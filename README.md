@@ -9,4 +9,4 @@ Program podpowiada nazwisko osoby po wpisanu imienia.
 >
 > Released under [MIT](https://choosealicense.com/licenses/mit/) License.
 >
-> <> with ❤❤❤ for [Atom](https://atom.io)
+> <> with ❤❤❤ for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
