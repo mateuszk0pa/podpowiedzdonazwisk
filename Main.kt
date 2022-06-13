@@ -48,7 +48,7 @@ fun main()
 
             }
         }
-        if (imie == "Magdalena")
+        if (imie == "$imie3")
         {
             println("Czy chodzi o $imie3 $nazwisko3? (odpowiedz tak lub nie)")
             var odpowiedz: String = ""
